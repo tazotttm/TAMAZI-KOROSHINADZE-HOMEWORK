@@ -1,0 +1,243 @@
+div {
+	font-family: 'Libre Baskerville', serif;
+}
+body {
+	background-color: #F6F8F9;
+}
+.logo {
+	color: #FA6980;
+	font-size: 13px;
+	vertical-align: middle;
+	display: inline-block;
+	margin-right: 92px;
+}
+header {
+	margin-top: 18px;
+	margin-left: 20px;
+	margin-bottom: 43px;
+	position: fixed;
+	z-index: 50;
+}
+.navi {
+	display: inline-block;
+}
+li {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 20px;
+	font-size: 11px;
+	font-family: 'Kdam Thmor Pro', sans-serif;
+	font-family: 'Oswald', sans-serif;
+}
+.h1 {
+	font-size: 24px;
+	color: #202124;
+	top: 75px;
+	left: 140px;
+	position: absolute;
+}
+
+.container1 {
+	top: 135px;
+	left: 140px;
+	width: 360px;
+	height: 180px;
+	position: absolute;
+	z-index: 10;
+}
+.imgtext {
+	position: absolute;
+	padding: 30px;
+	color: #FFFFFF;
+}
+.cardtext {
+	top: 305px;
+	left: 140px;
+	width: 360px;
+	height: 180px;
+	/* UI Properties */
+	background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	border-radius: 0px 0px 6px 6px;
+	opacity: 1;
+	z-index: 5;
+	position: absolute;
+}
+.ctext {
+	width: 320px;
+	height: 38px;
+	color: #A6ADB4;
+	padding-top: 76px;
+	padding-bottom: 66px;
+	padding-left: 40px;
+	padding-right: 40px;
+	font-size: 13px;
+}
+.twom {
+	font-size: 13px;
+	left: 66px;
+	bottom: 50px;
+	position: absolute;
+	color: #A6ADB4;
+}
+.strelka {
+	position: absolute;
+	bottom: 47px;
+	left: 40px;
+}
+.shevakvdi2 {
+	position: relative;
+	top: 0px;
+	left: 400px;
+}
+.shevakvdii {
+	position: absolute;
+	left: 800px;
+	top: 0;
+}
+.h2 {
+	font-size: 24px;
+	top: 543px;
+	left: 140px;
+	width: 770px;
+	height: 20px;
+	position: absolute;
+
+}
+h2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Kdam Thmor Pro', sans-serif;
+	font-family: 'Oswald', sans-serif;
+}
+.fotka1 {
+	top: 603px;
+	left: 140px;
+	width: 760px;
+	height: 430px;
+	/* UI Properties */
+	background: transparent url('img/Image.png') 0% 0% no-repeat padding-box;
+	border-radius: 6px;
+	opacity: 1;
+	position: absolute;
+}
+.fotka2 {
+	top: 603px;
+	left: 940px;
+	width: 360px;
+	height: 210px;
+	/* UI Properties */
+	background: transparent url('img/161975_1024x768.png') 0% 0% no-repeat padding-box;
+	border-radius: 6px;
+	opacity: 1;
+	position: absolute;
+}
+.fotka3 {
+	top: 1073px;
+	left: 140px;
+	width: 760px;
+	height: 430px;
+	/* UI Properties */
+	background: transparent url('img/Image.png') 0% 0% no-repeat padding-box;
+	border-radius: 6px;
+	opacity: 1;
+	position: absolute;
+}
+.fotka4 {
+	top: 915px;
+	left: 940px;
+	width: 360px;
+	height: 210px;
+	/* UI Properties */
+	background: transparent url('img/roberto-nickson-g-744100-unsplash.png') 0% 0% no-repeat padding-box;
+	border-radius: 6px;
+	opacity: 1;
+	position: absolute;
+}
+.fotka5 {
+	top: 1227px;
+	left: 940px;
+	width: 360px;
+	height: 210px;
+	/* UI Properties */
+	background: transparent url('img/tom-mussak-108425-unsplash.png') 0% 0% no-repeat padding-box;
+	border-radius: 6px;
+	opacity: 1;
+	position: absolute;
+}
+footer {
+	top: 1540px;
+	left: 0px;
+	width: 100%;
+	height: 200px;
+	/* UI Properties */
+	background: var(--unnamed-color-a6adb4) 0% 0% no-repeat padding-box;
+	background: #A6ADB4 0% 0% no-repeat padding-box;
+	opacity: 1;
+	position: absolute;
+}
+.logoo {
+	color: #FFFFFF;
+	top: 56px;
+	left: 142px;
+	width: 37px;
+	height: 13px;
+	position: absolute;
+}
+.lis {
+	display: block;
+	margin-bottom: 20px;
+	color: #CBD0D3;
+}
+.ul1 {
+	position: absolute;
+	left: 268px;
+	width: 36px;
+	height: 15px;
+	top: 56px;
+	color: #CBD0D3;
+}
+.ul2 {
+	top: 56px;
+	left: 401px;
+	width: 38px;
+	height: 15px;
+	position: absolute;
+	color: #CBD0D3;
+
+}
+.ul3 {
+	position: absolute;
+	left: 549px;
+	width: 79px;
+	height: 15px;
+	top: 56px;
+	color: #CBD0D3;
+}
+.ftext {
+	top: 56px;
+	left: 733px;
+	width: 500px;
+	height: 9px;
+	position: absolute;
+	font-size: 11px;
+	color: #CBD0D3;
+}
+a {
+	color: #CBD0D3;
+}
+.active {
+	color: #343638;
+}
+.lus {
+	display:inline-block;
+}
+.lu {
+	display: inline-block;
+}
+.logoebi {
+	position: absolute;
+	left: 1141px;
+	width: 160px;
+	height: 16px;
+	top: 56px;
+}

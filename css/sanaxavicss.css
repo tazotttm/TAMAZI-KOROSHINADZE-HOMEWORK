@@ -1,0 +1,107 @@
+body {
+	height: 2000px;
+}
+
+header {
+	background-color: cyan;
+	padding: 16px;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 100;
+	
+}
+
+.logo {
+	font-size: 40px;
+	display: inline-block;
+	margin-right: 40px;
+	vertical-align: middle;
+
+}
+
+nav {
+	display: inline-block;
+}
+
+li {
+	display: inline-block;
+	margin-right: 20px;
+	vertical-align: middle;
+}
+
+h1 {
+	font-size: 30px;
+	color: yellow;
+}
+
+.section-1 {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+h1 {
+	margin-bottom: 20px;
+}
+
+.section-2 {
+	margin-bottom: 50px;
+}
+
+.container {
+	width: 1170px;
+	margin: 0 auto;
+
+}
+.mama {
+	width: 500px;
+	height: 500px;
+	background-color: lightgreen;
+	position: relative;
+	z-index: 5;
+}
+
+.shvili {
+	width: 100px;
+	height: 100px;
+	position: absolute;
+}
+
+.shvili.gogita {
+	background-color: red;
+	top: 0;
+	left: 0;
+	z-index: 1;
+}
+
+.shvili.jemali {
+	background-color: yellow;
+	top: 25px;
+	left: 25px;
+	z-index: 7;
+
+}
+
+.shvili.shmagi {
+ background-color: purple;
+ top: 50px;
+ left: 50px;
+ z-index: 12;
+}
+
+
+
+.deda {
+	display: inline-block;
+	position: relative;
+}
+
+.text {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	background-color: darkred;
+	height: 100px;
+	width: 100px;
+	transform: translate(-50%, -50%);
+}
